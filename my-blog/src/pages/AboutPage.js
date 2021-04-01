@@ -5,21 +5,11 @@ const AboutPage = () => {
     <>
       <h1>About Me</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,
-        praesentium earum! Sunt ex eos praesentium. Distinctio illum quae rem
-        explicabo.
-      </p>
-
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,
-        praesentium earum! Sunt ex eos praesentium. Distinctio illum quae rem
-        explicabo.
-      </p>
-
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,
-        praesentium earum! Sunt ex eos praesentium. Distinctio illum quae rem
-        explicabo.
+        Class of 2022 Computer Science bachelor student in Jacobs University
+        Bremen, with passion of hoping a better world by using modern
+        technologies. With great interest of Big data, concerning about people’s
+        lifestyles and societies and seeking better solutions to their problems
+        relating day to day life.
       </p>
     </>
   );

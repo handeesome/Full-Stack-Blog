@@ -5,21 +5,8 @@ const Homepage = () => {
     <>
       <h1>Hello, welcome to my blog!</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,
-        praesentium earum! Sunt ex eos praesentium. Distinctio illum quae rem
-        explicabo.
-      </p>
-
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,
-        praesentium earum! Sunt ex eos praesentium. Distinctio illum quae rem
-        explicabo.
-      </p>
-
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati,
-        praesentium earum! Sunt ex eos praesentium. Distinctio illum quae rem
-        explicabo.
+        This blog is for me to present my ability and daily study notes in
+        different langauges, tools, and how to make things to reality
       </p>
     </>
   );
